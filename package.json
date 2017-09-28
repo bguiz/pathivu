@@ -1,0 +1,26 @@
+{
+  "name": "pathivu",
+  "version": "0.0.0",
+  "description": "Records different types of things",
+  "main": "pathivu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bguiz/pathivu.git"
+  },
+  "keywords": [
+    "record",
+    "log"
+  ],
+  "author": "bguiz",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bguiz/pathivu/issues"
+  },
+  "homepage": "https://github.com/bguiz/pathivu#readme",
+  "dependencies": {
+    "error-stack-parser": "^2.0.1"
+  }
+}
